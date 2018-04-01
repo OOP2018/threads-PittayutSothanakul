@@ -1,4 +1,9 @@
-
+/**
+ * Class to test Counter.
+ * 
+ * @author Pittayut Sothanakul
+ *
+ */
 public class TestCounter {
 	public static void main(String[] args) {
 		Counter acc = new Counter();

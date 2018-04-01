@@ -1,9 +1,14 @@
 /**
  * An accumulator for a sum.
+ * 
+ * @author Pittayut Sothanakul
  */
 public class Counter {
 	protected long total;
 
+	/**
+	 * Initialize total of counter.
+	 */
 	public Counter() {
 		total = 0;
 	}

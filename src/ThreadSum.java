@@ -1,4 +1,8 @@
-
+/**
+ * Class that run 2 Threads.
+ * @author Pittayut Sothanakul
+ *
+ */
 public class ThreadSum {
 	public static void main(String[] args) {
 		// upper limit of numbers to add/subtract to Counter
